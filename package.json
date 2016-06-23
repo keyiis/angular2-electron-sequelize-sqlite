@@ -18,7 +18,7 @@
     "url": "https://git.oschina.net/keyiis/angular2-electron.git"
   },
   "keywords": [
-    "angular2"
+    "angular2","electron","sequelize","sqlite3"
   ],
   "author": "keyiis",
   "license": "ISC",
