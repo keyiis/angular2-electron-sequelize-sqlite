@@ -1,0 +1,11 @@
+{
+    "username": "root",
+    "password": "root",
+    "database": "pdwjw",
+    "option": {
+        "storage": "path/to/database.sqlite",
+        "logging": true,
+        "dialect": "sqlite",
+        "pool": { "min": 5, "max": 30 }
+    }
+}

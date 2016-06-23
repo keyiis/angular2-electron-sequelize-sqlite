@@ -1,0 +1,13 @@
+{
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160319051630",
+    "core-js": "registry:dt/core-js#0.0.0+20160317120654",
+    "lodash": "registry:dt/lodash#3.10.0+20160619033623",
+    "node": "registry:dt/node#6.0.0+20160613154055",
+    "sequelize": "registry:dt/sequelize#3.4.1+20160606151038",
+    "source-map": "registry:dt/source-map#0.0.0+20160317120654",
+    "uglify-js": "registry:dt/uglify-js#2.6.1+20160316155526",
+    "validator": "registry:dt/validator#4.5.1+20160316155526",
+    "webpack": "registry:dt/webpack#1.12.9+20160523035535"
+  }
+}

@@ -1,0 +1,1713 @@
+
+> angular2-electron@1.0.0 build d:\work\nodejs\angular\angular2-electron
+> npm run clean && webpack --progress --profile --colors --display-error-details --display-cached
+
+
+> angular2-electron@1.0.0 clean d:\work\nodejs\angular\angular2-electron
+> npm cache clean && rimraf output
+
+Hash: [1m70d8ee0074c1aa7ead8e[22m
+Version: webpack [1m1.13.1[22m
+Time: [1m13132[22mms
+                                                                     [1mAsset[22m       [1mSize[22m  [1mChunks[22m  [1m[22m           [1mChunk Names[22m
+                                                                 [1m[32mvendor.js[39m[22m    49.5 kB       [1m2[22m  [1m[32m[emitted][39m[22m  vendor
+  [1m[32massets/glyphicons-halflings-regular.f4769f9bdb7466be65088239c12046d1.eot[39m[22m    20.1 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+ [1m[32massets/glyphicons-halflings-regular.fa2772327f55d8198301fdb8bcfc8158.woff[39m[22m    23.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32massets/glyphicons-halflings-regular.e18bbf611f2a2e43afc071aa2f4e1512.ttf[39m[22m    45.4 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+  [1m[32massets/glyphicons-halflings-regular.89889688147bd7575d6327160d64e760.svg[39m[22m     109 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                                    [1m[32mapp.js[39m[22m    2.82 MB       [1m0[22m  [1m[32m[emitted][39m[22m  app
+                                                              [1m[32mpolyfills.js[39m[22m     397 kB       [1m1[22m  [1m[32m[emitted][39m[22m  polyfills
+[1m[32massets/glyphicons-halflings-regular.448c34a56d699c29117adc64c43affeb.woff2[39m[22m      18 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                                [1m[32mvendor.css[39m[22m     146 kB       [1m2[22m  [1m[32m[emitted][39m[22m  vendor
+                                                                [1m[32mindex.html[39m[22m  623 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                               [1m[32melectron.js[39m[22m    1.93 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                              [1m[32mpackage.json[39m[22m  136 bytes        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                               [1m[32mloading.gif[39m[22m     304 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+                                                                  [1m[32micon.ico[39m[22m     270 kB        [1m[22m  [1m[32m[emitted][39m[22m  
+    + 577 hidden modules
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/style-loader/0.13.1/style-loader/addStyles.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/style-loader/0.13.1/style-loader/addStyles.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Observable.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Observable.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/css-loader/0.23.1/css-loader/lib/css-base.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/css-loader/0.23.1/css-loader/lib/css-base.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/private_export.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/private_export.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_tokens.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_tokens.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/render.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/render.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/platform_directives_and_pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/platform_directives_and_pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/platform_common_providers.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/platform_common_providers.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_common_providers.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/application_common_providers.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/debug/debug_node.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/debug/debug_node.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/testability/testability.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/testability/testability.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/profile.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/profile.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/lang.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/lang.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/async.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/async.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/common_directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/common_directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_constants.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_constants.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_driver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_driver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_group_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_group_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_keyframe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_keyframe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_sequence_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_sequence_player.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_style_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_style_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_styles.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/animation_styles.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detection_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detection_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/constants.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/constants.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/console.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/console.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/debug/debug_renderer.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/debug/debug_renderer.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/provider_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/provider_util.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_provider.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_provider.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/component_resolver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/component_resolver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/debug_context.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/debug_context.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/template_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/template_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_type.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_type.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_utils.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_utils.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/lifecycle_hooks.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/lifecycle_hooks.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/view.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/view.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/wtf_init.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/wtf_init.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflection_capabilities.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflection_capabilities.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflector_reader.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflector_reader.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/render/api.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/render/api.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/security.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/security.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/util/decorators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/util/decorators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/di.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/di.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/metadata/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/metadata.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/decorators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/decorators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/forward_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/forward_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/provider.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/provider.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_key.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_key.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/reflective_exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/opaque_token.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/di/opaque_token.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/collection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/collection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone/ng_zone.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone/ng_zone.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/component_factory.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/component_factory.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/dynamic_component_loader.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/dynamic_component_loader.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/query_list.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/query_list.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/systemjs_component_resolver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/systemjs_component_resolver.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_container_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_container_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/view_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/wtf_impl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/profile/wtf_impl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/promise.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/promise.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/base_wrapped_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/base_wrapped_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/exception_handler.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/exception_handler.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/radio_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/radio_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/form_builder.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/form_builder.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/abstract_control_directive.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/abstract_control_directive.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/checkbox_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/checkbox_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/control_container.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/control_container.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/default_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/default_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_group.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_group.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_name.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_name.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_status.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_control_status.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form_control.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form_control.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form_model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_form_model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/ng_model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/select_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/select_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/validators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/validators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/model.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/validators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/validators.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/core_directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/core_directives.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_class.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_class.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_for.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_for.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_if.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_if.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_plural.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_plural.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_style.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_style.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_switch.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_switch.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_template_outlet.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/directives/ng_template_outlet.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/async_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/async_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/common_pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/common_pipes.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/date_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/date_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/i18n_plural_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/i18n_plural_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/i18n_select_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/i18n_select_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/json_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/json_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/lowercase_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/lowercase_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/number_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/number_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/replace_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/replace_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/slice_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/slice_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/uppercase_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/uppercase_pipe.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/platform_location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/platform_location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/hash_location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/hash_location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/path_location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/path_location_strategy.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/location/location.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Subscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Subscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Subscription.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Subscription.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/symbol/rxSubscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/symbol/rxSubscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/symbol/observable.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/symbol/observable.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/root.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/root.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/toSubscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/toSubscriber.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/math.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/facade/math.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element_injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/linker/element_injector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/active_animation_players_map.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/animation/active_animation_players_map.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/reflection/reflector.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone/ng_zone_impl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/zone/ng_zone_impl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/default_iterable_differ.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/default_iterable_differ.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/default_keyvalue_differ.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/default_keyvalue_differ.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/iterable_differs.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/iterable_differs.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/keyvalue_differs.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/differs/keyvalue_differs.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detector_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/core/2.0.0-rc.2/@angular/core/src/change_detection/change_detector_ref.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/collection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/collection.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/lang.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/lang.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/number_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/number_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/select_multiple_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/select_multiple_control_value_accessor.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/exceptions.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/shared.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/shared.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/async.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/async.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/promise.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/promise.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/invalid_pipe_argument_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/pipes/invalid_pipe_argument_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/intl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/intl.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isFunction.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isFunction.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Observer.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/Observer.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isArray.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isArray.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isObject.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/isObject.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/tryCatch.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/tryCatch.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/errorObject.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/errorObject.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/UnsubscriptionError.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/rxjs/5.0.0-beta.6/rxjs/util/UnsubscriptionError.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/buffer/3.6.0/buffer/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/buffer/3.6.0/buffer/index.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/webpack/1.13.1/webpack/buildin/module.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in (webpack)/buildin/module.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/base_wrapped_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/base_wrapped_exception.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/exception_handler.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/facade/exception_handler.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in ./~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/normalize_validator.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+
+[1m[33mWARNING in D:/work/nodejs/angular/angular2-electron/~/.npminstall/@angular/common/2.0.0-rc.2/@angular/common/src/forms-deprecated/directives/normalize_validator.js
+There is another module with an equal name when case is ignored.
+This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+Rename module if multiple modules are expected or use equal casing if one module is expected.[39m[22m
+Child [1mhtml-webpack-plugin for "index.html"[22m:
+        + 1 hidden modules
+Child [1mextract-text-webpack-plugin[22m:
+        + 7 hidden modules
+Child [1mextract-text-webpack-plugin[22m:
+        + 2 hidden modules

@@ -1,0 +1,7 @@
+{
+  "name": "testApp",
+  "version": "0.0.1",
+  "author":"phevose",
+  "description": "此软件主要用于测试",
+  "main": "electron.js"
+}
